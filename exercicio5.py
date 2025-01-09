@@ -6,5 +6,5 @@ def reverseString(s):
     
 
 if __name__ == '__main__':
-    string = input("Digite uma string: ")
+    s = input("Digite uma string: ")
     print(reverseString(s))
